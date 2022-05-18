@@ -4,7 +4,7 @@ int main()
 {
     int n, x, ans;
     cout << "Enter the size of array: ";
-    cin >> n;
+    cin >> n;// we are taking input
     cout << "Enter the sum :";
     cin >> x;
     int arr[n];
